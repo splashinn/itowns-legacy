@@ -5,6 +5,10 @@
 
 # iTowns V1
 
+### Cooper Aerial Usage
+- Cooper Aerial Surveys Co. will be adapting this web framework for use with LiDAR data.
+- Work will be done by Kyle Maune [splashinn](https://www.github.com/splashinn)
+
 ### What is it?
 
 iTowns is a web framework written in Javascript/WebGL for visualisation of 3D geographic data allowing precise measurements in 3D.
